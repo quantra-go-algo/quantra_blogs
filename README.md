@@ -1,76 +1,69 @@
-# Blogs Repository by Quantra 📘
+# Blogs Repository by QuantInsti 📘
 
-Welcome to the **Blogs Repository by Quantra**, your go-to resource for learning about **algorithmic trading**, **quantitative finance**, and **data-driven trading strategies**. Dive into insightful blogs, practical Jupyter notebooks, and other valuable materials designed to empower traders, data scientists, and enthusiasts in the world of quantitative trading.
+Welcome to the **Blogs Repository by QuantInsti**, your one-stop destination for insights into **algorithmic trading**, **quantitative finance**, and **data-driven trading strategies**. Dive into our educational blogs, practical resources, and Jupyter notebooks designed to empower traders, analysts, and financial enthusiasts with actionable knowledge and hands-on skills.
 
----
-
-## 🌟 Highlights of this Repository
-
-- **Hands-on Learning**: Explore real-world examples with step-by-step implementations.
-- **Cutting-edge Topics**: Learn the latest strategies in algorithmic trading and quantitative finance.
-- **Beginner to Advanced**: Catered to all levels, whether you're just starting or an experienced quant.
-- **Stay Updated**: Regularly updated blogs and Jupyter notebooks to ensure you’re learning the latest advancements in the field.
+🌐 Visit our website: [QuantInsti](https://www.quantinsti.com)  
+📚 Explore more blogs: [Blogs by QuantInsti](https://blog.quantinsti.com/)
 
 ---
 
-## Why This Repository? 🌟
+## 🌐 About QuantInsti
 
-In the dynamic and fast-evolving world of trading, **machine learning** and **data science** are no longer optional—they are essential. This repository is designed to help you:
-- **Learn**: Gain practical knowledge with blogs and notebooks covering relevant trading concepts.
-- **Apply**: Implement cutting-edge strategies using Python and real-world datasets.
-- **Stay Updated**: We will frequently post new blogs with accompanying Jupyter notebooks, allowing you to learn the latest trends and directly implement them in your trading journey.
-- **Scale**: Automate and optimize your trading systems while managing large-scale data effortlessly.
+QuantInsti is at the forefront of transforming financial education by combining technology and expertise. Whether you're an aspiring trader or an industry veteran, our programs and platforms are tailored to help you achieve your goals.
 
-Whether you're looking to understand the basics of quantitative finance or apply machine learning to trading strategies, this repository offers something for everyone.
+### **Key Offerings**
+
+#### **1. Executive Programme in Algorithmic Trading (EPAT®)**  
+A flagship six-month program to master:
+- Algorithmic trading.
+- Machine learning for trading.
+- Quantitative finance strategies.  
+[Learn more about EPAT®](https://www.quantinsti.com/epat)
+
+#### **2. Quantra: Python Interactive Learning Platform**  
+Quantra offers self-paced courses combining:
+- Hands-on strategy backtesting.
+- Live/paper trading implementations.
+- Lessons on fundamental, technical, and machine-learning-based strategies.  
+[Explore Quantra](https://quantra.quantinsti.com)
+
+#### **3. Blueshift: Research and Trading Platform**  
+Blueshift equips you with tools for:
+- Comprehensive backtesting.
+- Strategy optimization and real-time deployment.  
+[Discover Blueshift](https://www.quantinsti.com/blueshift)
 
 ---
 
-<p align="center">
-  <img align="center" width="200" src="https://quantra.quantinsti.com/images/img_logo.svg">
-</p>
-<p align="center">Learn A to Z of Algorithmic and Quantitative Trading</p>
-<p align="center">Quantra<sup>&reg;</sup> is an e-learning portal by QuantInsti<sup>&reg;</sup> that specializes in Algorithmic &amp; Quantitative Trading. Quantra offers the best self-paced courses that are a mix of videos, audios, presentations, multiple choice questions and highly interactive exercises.</p>
+## 📖 Explore Webinars
 
-<br>
+Discover a wide range of expert-led webinars offering practical insights and the latest advancements in trading. From mastering algorithmic trading basics to exploring advanced quantitative techniques, our webinars are designed to keep you ahead in the financial markets.
 
-<div align="center">
-  <h3>
-    <a href="https://quantra.quantinsti.com/">
-      Website
-    </a>
-    <span> | </span>
-    <a href="https://quantra.quantinsti.com/courses">
-      Courses
-    </a>
-       <span> | </span>
-    <a href="https://quantra.quantinsti.com/community">
-      Community
-    </a>
-    <span> | </span>
-    <a href="https://quantra.quantinsti.com/glossary">
-      Glossary
-    </a>
-    <span> | </span>
-    <a href="https://www.quantinsti.com/blog/">
-      Blog
-    </a>
-  </h3>
+Start your journey: [QuantInsti Webinars](https://blog.quantinsti.com/tag/webinars/)
+
+---
+
+## 📩 Contact Us
+
+We’re here to help you on your journey into algorithmic and quantitative trading.  
+
+**QuantInsti Quantitative Learning Pvt Ltd**  
+📍 A-309, Boomerang, Chandivali Farm Road, Powai, Mumbai – 400 072  
+📧 Email: [contact@quantinsti.com](mailto:contact@quantinsti.com)  
+📞 Phone: +91 8976996960  
+
+Stay connected with us on social media:  
+<div style="display: flex; gap: 10px;">
+  <a href="https://www.facebook.com/quantinsti">
+    <img width="24" src="https://user-images.githubusercontent.com/16116886/40958262-42153650-68b6-11e8-860e-d79237a89247.png" alt="Facebook"/>
+  </a>
+  <a href="https://twitter.com/quantinsti/">
+    <img width="24" src="https://user-images.githubusercontent.com/16116886/40958261-41ee1d0e-68b6-11e8-8d65-c07c52758aee.png" alt="Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/company/quantinsti">
+    <img width="24" src="https://user-images.githubusercontent.com/16116886/40958260-41c596a4-68b6-11e8-9bef-1420ea381b26.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.youtube.com/user/quantinsti">
+    <img width="24" src="https://user-images.githubusercontent.com/16116886/40958257-415647ea-68b6-11e8-892d-8a1425e79e58.png" alt="YouTube"/>
+  </a>
 </div>
-
-<br/>
-
-> Made on Python version 3.9.5
-
-### Courses
- -   [Python For Trading: Basic](https://github.com/goquantra/python-for-trading-basic)
- -   [Introduction to Machine Learning for Trading](https://github.com/goquantra/introduction-to-machine-learning-for-trading)
- -   [Automated Trading with IBridgePy using Interactive Brokers Platform](https://github.com/goquantra/automated-trading-with-ibridgepy-using-interactive-brokers-platform)
- 
-
-## Contact Us
-[(Back to top)](#courses)
-
-You can get in touch with us at [quantra@quantinsti.com](mailto:quantra@quantinsti.com)
-
-<span>Alternatively, get in touch on: </span> <a href="https://www.facebook.com/quantinsti"><img width="24" src="https://user-images.githubusercontent.com/16116886/40958262-42153650-68b6-11e8-860e-d79237a89247.png"/></a>	<a href="https://twitter.com/quantinsti/"><img width="24" src="https://user-images.githubusercontent.com/16116886/40958261-41ee1d0e-68b6-11e8-8d65-c07c52758aee.png"/></a>	<a href="https://www.linkedin.com/company/quantinsti"><img width="24" src="https://user-images.githubusercontent.com/16116886/40958260-41c596a4-68b6-11e8-9bef-1420ea381b26.png"/></a>	<a href="https://plus.google.com/110772715968756646442/"><img width="24" src="https://user-images.githubusercontent.com/16116886/40958259-419ddd1c-68b6-11e8-94eb-306ff4f6d104.png"/></a>	<a href="https://www.youtube.com/user/quantinsti"><img width="24" src="https://user-images.githubusercontent.com/16116886/40958257-415647ea-68b6-11e8-892d-8a1425e79e58.png"/></a>
-
